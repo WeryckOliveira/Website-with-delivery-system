@@ -1,4 +1,7 @@
-<h2 align="center">Meat Master Site</h2>
+<h1 align="center">Meat Master Site</h1>
+
+<br>
+<br>
 
 <p align="center">
     <img width="460" height="360" src="Images/MeatMaster.gif">
