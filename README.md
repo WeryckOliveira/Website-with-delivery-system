@@ -2,12 +2,11 @@
 <html>
 
 <head>
-    <title>Meat Master</title>
     <meta charset="utf-8"/>
 </head>
 
 <body>
-<img src="Images/Meat Master.gif"/>
+<img src="Images/Dashboard.gif"/>
 
 <h2>Mensagem Teste</h2>
 
