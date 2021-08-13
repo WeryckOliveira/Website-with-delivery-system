@@ -1,15 +1,5 @@
-<!DOCTYPE html>
-<html>
+<p align="center">
+    <img src="Images/Meat Master.gif">
+</p>
 
-<head>
-    <meta charset="utf-8"/>
-</head>
-
-<body>
-<img src="Images/Dashboard.gif"/>
-
-<h2>Mensagem Teste</h2>
-
-</body>
-
-</html>
+<h2>Teste</h2>
