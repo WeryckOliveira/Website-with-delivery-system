@@ -29,7 +29,7 @@
 <br>
 
 <h2>Getting started</h2>
-<strong>How to use the login system :</strong>
+<h4>How to use the login system :</h4>
 
 <br>
 <br>
@@ -43,7 +43,7 @@
 
 <br>
 
-<strong>How to use the ordering system :</strong>
+<h4>How to use the ordering system :</h4>
 
 
 <ol>
