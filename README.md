@@ -32,24 +32,24 @@
 <h4>How to use the login system :</h4>
 
 
-<ol>
+<ul>
     <li>Create a database with the name 'login'.</li>
     <li>Create a table with the name "usuario".</li>
     <li>Create the columns('ID', 'usuario', 'senha').</li>
     <li>The values ​​in this table will be the dashboard username and password.</li>
-</ol>
+</ul>
 
 <br>
 
 <h4>How to use the ordering system :</h4>
 
 
-<ol>
+<ul>
     <li>Create a database with the name 'pedidos'.</li>
     <li>Create two tables, one named 'lista', and one named 'mystatus'.</li>
     <li>In the list "table" create the following columns('ID', 'nome', 'sobrenome', 'email', 'telefone', 'rua', 'numero', 'cep', 'produtos', 'total', 'horario'), this is where the user's data and products will be.</li>
     <li>In the list "mystatus" create the following columns('ID', 'statush'), this is where order status will be saved.</li>
-</ol>
+</ul>
 
 <br>
 <br>
