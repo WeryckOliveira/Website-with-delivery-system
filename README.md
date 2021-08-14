@@ -42,11 +42,9 @@
 </ol>
 
 <br>
-<br>
 
 <strong>How to use the ordering system :</strong>
 
-<br>
 <br>
 
 <ol>
