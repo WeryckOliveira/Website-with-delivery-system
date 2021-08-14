@@ -30,6 +30,7 @@
 
 <h2>Getting started</h2>
 <strong>How to use the login system :</strong>
+<br>
 <ol>
     <li>Create a database with the name 'login'.</li>
     <li>Create a table with the name "usuario".</li>
