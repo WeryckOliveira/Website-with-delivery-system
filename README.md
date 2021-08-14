@@ -45,7 +45,6 @@
 
 <strong>How to use the ordering system :</strong>
 
-<br>
 
 <ol>
     <li>Create a database with the name 'pedidos'.</li>
