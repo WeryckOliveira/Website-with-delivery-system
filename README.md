@@ -41,7 +41,14 @@
     <li>The values ​​in this table will be the dashboard username and password.</li>
 </ol>
 
+<br>
+<br>
+
 <strong>How to use the ordering system :</strong>
+
+<br>
+<br>
+
 <ol>
     <li>Create a database with the name 'pedidos'.</li>
     <li>Create two tables, one named 'lista', and one named 'mystatus'.</li>
