@@ -29,7 +29,7 @@
 <br>
 
 <h2>Getting started</h2>
-<p>How to use the login system :</p>
+<strong>How to use the login system :</strong>
 <ol>
     <li>Create a database with the name 'login'.</li>
     <li>Create a table with the name "usuario".</li>
@@ -37,7 +37,7 @@
     <li>The values ​​in this table will be the dashboard username and password.</li>
 </ol>
 
-<p>How to use the ordering system :</p>
+<strong>How to use the ordering system :</strong>
 <ol>
     <li>Create a database with the name 'pedidos'.</li>
     <li>Create two tables, one named 'lista', and one named 'mystatus'.</li>
