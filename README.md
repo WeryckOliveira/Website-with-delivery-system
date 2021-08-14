@@ -31,8 +31,6 @@
 <h2>Getting started</h2>
 <h4>How to use the login system :</h4>
 
-<br>
-<br>
 
 <ol>
     <li>Create a database with the name 'login'.</li>
