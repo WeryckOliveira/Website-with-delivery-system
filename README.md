@@ -50,8 +50,8 @@
 <ul>
     <li>Create a database with the name 'pedidos'.</li>
     <li>Create two tables, one named 'lista', and one named 'mystatus'.</li>
-    <li>In the list "table" create the following columns('ID', 'nome', 'sobrenome', 'email', 'telefone', 'rua', 'numero', 'cep', 'produtos', 'total', 'horario'), this is where the user's data and products will be.</li>
-    <li>In the list "mystatus" create the following columns('ID', 'statush'), this is where order status will be saved.</li>
+    <li>In the table "list" create the following columns('ID', 'nome', 'sobrenome', 'email', 'telefone', 'rua', 'numero', 'cep', 'produtos', 'total', 'horario'), this is where the user's data and products will be.</li>
+    <li>In the table "mystatus" create the following columns('ID', 'statush'), this is where order status will be saved.</li>
 </ul>
 
 <br>
