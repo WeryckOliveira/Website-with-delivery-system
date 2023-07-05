@@ -38,6 +38,7 @@
     <li>Create a database with the name 'login'.</li>
     <li>Create a table with the name "usuario".</li>
     <li>Create the columns('ID', 'usuario', 'senha').</li>
+    <li>the ID column was used auto increment and the password column needs to be inserted with md5 encryption.</li>
     <li>The values ​​in this table will be the dashboard username and password.</li>
 </ul>
 
