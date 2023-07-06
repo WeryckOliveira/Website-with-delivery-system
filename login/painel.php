@@ -99,7 +99,7 @@ $conSts = mysqli_query($conexao, $consultaSts) or die ($mysqli->error);
 
     <section class="storage-sts">
 
-        <div><?php echo $dado["statush"];  ?></div>
+        <div class="main-sts-storage"><?php echo $dado["statush"];  ?></div>
 
     </section><!--storage-bd-->
     

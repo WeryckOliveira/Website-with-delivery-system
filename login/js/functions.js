@@ -304,8 +304,8 @@ $(function(){
     });
 
     for(let i = 0; i < $(".client tr").length; i++){
-        var bdSts = $(".storage-sts div").find("span").eq(i).html();
-        var attrSts = $(".storage-sts div").find("span").eq(i).attr("class")
+        var bdSts = $(".main-sts-storage").find("span").eq(i).html();
+        var attrSts = $(".main-sts-storage").find("span").eq(i).attr("class")
     
         $(".client tr").eq(i).find(".my-status").html("<span class='" + attrSts + "'>" + bdSts + "</span>");
 
