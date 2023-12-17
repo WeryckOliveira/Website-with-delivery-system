@@ -13,6 +13,6 @@ $(function(){
         $(".blue-vivacity").fadeOut();
         $(".modal-check").fadeOut();
         $("#index-form input:not([type='submit'])").val("");
-        $("textarea").val("");
+        $("textarea").val(""); /*aa*/
     })
 });
