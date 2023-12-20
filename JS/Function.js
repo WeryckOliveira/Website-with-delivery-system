@@ -3,7 +3,7 @@ $(function(){
         $('.nav-icon').click(function(){
         $(this).toggleClass('open');
     });
-    }); //CHANGE
+    });
 
     $(".nav-icon").click(function(){
         $(".menu-mobile ul").slideToggle();
