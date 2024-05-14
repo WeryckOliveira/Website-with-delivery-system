@@ -4,7 +4,7 @@ $(function(){
         $(this).toggleClass('open');
     });
     }); 
-//CAHNGE
+
     $(".nav-icon").click(function(){
         $(".menu-mobile ul").slideToggle();
     });
