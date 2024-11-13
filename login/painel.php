@@ -24,7 +24,7 @@ $conSts = mysqli_query($conexao, $consultaSts) or die ($mysqli->error);
     <script src="https://kit.fontawesome.com/2ce6de8acf.js" crossorigin="anonymous"></script>
 </head>
 
-<body>a
+<body>aa
 
     <section class="aside-left">
         
