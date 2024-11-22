@@ -8,7 +8,7 @@ $(function(){
             $(".modal-check").fadeIn();
         }
     });
-4
+44
     $(".close-modal").click(function(){
         $(".blue-vivacity").fadeOut();
         $(".modal-check").fadeOut();
