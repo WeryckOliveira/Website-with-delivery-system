@@ -74,4 +74,4 @@
 <ul>
     <li>Weryck Thomaz Oliveira Dias: (https://github.com/WeryckOliveira)</li>
 </ul>
-<p>Please follow github and join us! Thanks to visiting me and good coding!</p> 
+<p>Please follow github and join us! Thanks to visiting me and good coding!</p>
