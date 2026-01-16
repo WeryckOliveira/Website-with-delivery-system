@@ -17,7 +17,7 @@ $(function(){
     $(".menu-mobile,.add,#cart .container,.aCart").click(()=>{
         return false;
     });
-
+hhhh
     $("html,body").click(()=>{
         $(".menu-mobile ul").fadeOut();
         $(".nav-icon").removeClass('open');
@@ -363,6 +363,7 @@ $(function(){
     });
 
 });
+
 
 
 
