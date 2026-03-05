@@ -4,7 +4,7 @@ $(function(){
         $(this).toggleClass('open');
     });
     }); 
-12
+1
     $(".nav-icon").click(function(){
         $(".menu-mobile ul").slideToggle();
     });
@@ -363,6 +363,7 @@ $(function(){
     });
 
 });
+
 
 
 
