@@ -1,6 +1,6 @@
 <?php
 
-f
+
 	class Mail{
 
 		public $opt,$mailer;
@@ -59,5 +59,6 @@ f
 
 
 ?>
+
 
 
