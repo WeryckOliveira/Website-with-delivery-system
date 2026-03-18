@@ -3,7 +3,7 @@
 ?>
 <!DOCTYPE html>
 <html lang="en">
-h
+
 <head>
     <title>Meat Master</title>
     <meta charset="utf-8"/>
