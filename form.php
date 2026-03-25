@@ -3,4 +3,4 @@
 	$m = new Mail($_POST);
 	$m->sendMail();
 ?>
-
+ggg
