@@ -1,7 +1,7 @@
 $(function(){
 
     //send form contact
-1
+
     $("#index-form").ajaxForm({
         'success': function(){
             $(".blue-vivacity").fadeIn();
