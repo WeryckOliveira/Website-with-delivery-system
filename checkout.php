@@ -1,5 +1,5 @@
 <?php
-ss
+s
 ?>
 <!DOCTYPE html>
 <html lang="en">
