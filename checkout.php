@@ -16,7 +16,7 @@
     <link href="CSS/Style.min.css" rel="stylesheet"/>
     <script src="https://kit.fontawesome.com/2ce6de8acf.js" crossorigin="anonymous"></script>
 </head>
-d
+
 <body>
     <header class="check-header">
         <div class="container">
