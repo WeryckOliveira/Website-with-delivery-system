@@ -8,7 +8,7 @@ $(function(){
     $(".nav-icon").click(function(){
         $(".menu-mobile ul").slideToggle();
     });
-jjj
+jj
     $(".menu-mobile a").click(()=>{
         $(".menu-mobile ul").fadeOut();
         $(".nav-icon").removeClass('open');
