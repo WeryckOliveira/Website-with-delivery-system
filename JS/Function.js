@@ -3,8 +3,8 @@ $(function(){
         $('.nav-icon').click(function(){
         $(this).toggleClass('open');
     });
-    }); 
-jjjh
+    });
+jjj
     $(".nav-icon").click(function(){
         $(".menu-mobile ul").slideToggle();
     });
